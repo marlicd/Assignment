@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(210, 210, 250);
+}
+img{
+    width: 600px;
+    height: 580px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+}
